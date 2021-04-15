@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/70539591/114879282-6dc3a580-9dd7-11eb-9cc1-b719f61c7733.png)
+
 ### Hi there 👋 Welcome to my portfolio. Here are my most important projects:
 
 <!--
@@ -14,9 +16,11 @@
 - ⚡ Fun fact: ...
 -->
 
+---
 # "BoomSounds e-commerce"
 ## Description: 
 The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
+---
 ## Technologies: 
 - Plain HTML/CSS with modules.
 - React with Redux.
