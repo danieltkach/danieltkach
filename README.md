@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my portfolio.
 
 <!--
 **danieltkach/danieltkach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,17 @@
 - ⚡ Fun fact: ...
 -->
 
-Here are my most important projects:
+### Here are my most important projects:
 
->_ E-COMMERCE
+# E-COMMERCE
 Description: The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
 
-Technologies: 
+## Technologies: 
 - HTML/CSS with modules.
 - React with Redux
 - Node.js, PostgreSQL with Sequelize
 
-Screenshots:
+## Screenshots:
 ![msedge_xHTXKesgjw](https://user-images.githubusercontent.com/70539591/114872023-47e6d280-9dd0-11eb-8160-a8f9b031dc8f.jpg)
 
 ![msedge_nIQHmpyrLp](https://user-images.githubusercontent.com/70539591/114872080-559c5800-9dd0-11eb-8e9f-c932a7e0ddee.png)
@@ -34,10 +34,11 @@ Screenshots:
 ![msedge_xX0v5IlsNz](https://user-images.githubusercontent.com/70539591/114872124-61881a00-9dd0-11eb-8e0c-edd0e1b1fa9f.png)
 
 
->_ "GOI" 
-Description: vocabulary retention system. I originally created it to learn Japanese, that's why it has special functionalities to handle "kanji" characters, as well as the two Japanese alphabets (hiragana and katakana).
+# "GOI" 
+## Description: 
+Vocabulary retention system. I originally created it to learn Japanese, that's why it has special functionalities to handle "kanji" characters, as well as the two Japanese alphabets (hiragana and katakana).
 
-Technologies: 
+## Technologies: 
 - Borland Delphi (Pascal)
 - It uses a propietary file format to handle the vocabulary lists, saving the right and wrong answers for spaced repetition.
 
