@@ -17,10 +17,10 @@
 -->
 
 ---
-# "BoomSounds e-commerce"
-## Description: 
-The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
 ---
+# "BoomSounds e-commerce"
+### Description: 
+The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
 ## Technologies: 
 - Plain HTML/CSS with modules.
 - React with Redux.
@@ -35,11 +35,10 @@ The user can either be a musician wanting to sell their productions and composit
 ![msedge_xX0v5IlsNz](https://user-images.githubusercontent.com/70539591/114872124-61881a00-9dd0-11eb-8e0c-edd0e1b1fa9f.png)
 
 ---
-# "Routine Planner"
-## Description:
-I created this program to fulfill the need from instructors of the EasyFlexibility method to have quick lesson plans.
-
 ---
+# "Routine Planner"
+### Description:
+I created this program to fulfill the need from instructors of the EasyFlexibility method to have quick lesson plans.
 
 ## Technologies:
 - .NET with C# for Windows Desktop.
@@ -59,12 +58,10 @@ On the right you have the routine structure, you can add exercises to each tab: 
 ![04- follow along](https://user-images.githubusercontent.com/70539591/114875896-22f45e80-9dd4-11eb-9117-725fae5ccb28.jpg)
 
 ---
-# "GOI" 
-## Description: 
-Vocabulary retention system. I originally created it to learn Japanese, that's why it has special functionalities to handle "kanji" characters, as well as the two Japanese alphabets (hiragana and katakana).
-
 ---
-
+# "GOI" 
+### Description: 
+Vocabulary retention system. I originally created it to learn Japanese, that's why it has special functionalities to handle "kanji" characters, as well as the two Japanese alphabets (hiragana and katakana).
 ## Technologies: 
 - Borland Delphi (Pascal)
 - It uses a propietary file format to handle the vocabulary lists, saving the right and wrong answers for spaced repetition.
