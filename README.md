@@ -17,7 +17,6 @@
 -->
 
 ---
----
 # "BoomSounds e-commerce"
 The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
 ## Technologies: 
@@ -32,7 +31,6 @@ The user can either be a musician wanting to sell their productions and composit
 
 ![msedge_xX0v5IlsNz](https://user-images.githubusercontent.com/70539591/114872124-61881a00-9dd0-11eb-8e0c-edd0e1b1fa9f.png)
 
----
 ---
 # "Routine Planner"
 I created this program to fulfill the need from instructors of the EasyFlexibility method to have quick lesson plans.
@@ -53,7 +51,6 @@ On the right you have the routine structure, you can add exercises to each tab: 
 #### The program talks to you so you can follow along the routines you create.
 ![04- follow along](https://user-images.githubusercontent.com/70539591/114875896-22f45e80-9dd4-11eb-9117-725fae5ccb28.jpg)
 
----
 ---
 # "GOI" 
 Vocabulary retention system. I originally created it to learn Japanese, that's why it has special functionalities to handle "kanji" characters, as well as the two Japanese alphabets (hiragana and katakana).
