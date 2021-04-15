@@ -19,7 +19,6 @@
 ---
 ---
 # "BoomSounds e-commerce"
-### Description: 
 The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
 ## Technologies: 
 - Plain HTML/CSS with modules.
@@ -37,7 +36,6 @@ The user can either be a musician wanting to sell their productions and composit
 ---
 ---
 # "Routine Planner"
-### Description:
 I created this program to fulfill the need from instructors of the EasyFlexibility method to have quick lesson plans.
 
 ## Technologies:
@@ -60,7 +58,6 @@ On the right you have the routine structure, you can add exercises to each tab: 
 ---
 ---
 # "GOI" 
-### Description: 
 Vocabulary retention system. I originally created it to learn Japanese, that's why it has special functionalities to handle "kanji" characters, as well as the two Japanese alphabets (hiragana and katakana).
 ## Technologies: 
 - Borland Delphi (Pascal)
