@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my portfolio.
+### Hi there 👋 Welcome to my portfolio. Here are my most important projects:
 
 <!--
 **danieltkach/danieltkach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Here are my most important projects:
 
 # E-COMMERCE
 Description: The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
