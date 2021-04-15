@@ -38,19 +38,18 @@ I created this program to fulfill the need from instructors of the EasyFlexibili
 - .NET with C# for Windows Desktop.
 - Text-to-speech modules.
 ## Screenshots:
+#### It checks the software expiration via an internet clock.
 ![01- log in](https://user-images.githubusercontent.com/70539591/114875384-9f3a7200-9dd3-11eb-972c-a7bf69939e15.jpg)
-#### You can only use it if you registered for the EasySplits course, and it expires after a while. It checks time and date with an internet clock.
 
-![02- main window](https://user-images.githubusercontent.com/70539591/114875590-d1e46a80-9dd3-11eb-887e-b9e3084546fb.jpg)
 #### Main window of the application. Categories on top, exercises list on the left, exercise information in the center. The pictures are all built within the .exe as "resource".
 On the right you have the routine structure, you can add exercises to each tab: warmup, rounds 1 to 3, cool down. The Save Lesson Plan button creates an html and PDF version of the routine.
+![02- main window](https://user-images.githubusercontent.com/70539591/114875590-d1e46a80-9dd3-11eb-887e-b9e3084546fb.jpg)
 
-
-![03- autoroutine logic](https://user-images.githubusercontent.com/70539591/114875767-03f5cc80-9dd4-11eb-8b28-17c5d22960bd.jpg)
 #### This contains the most complex logic of all the program. It creates a splits lesson plan automatically by picking difficulty and split, whether you want to include a cool down and zejax exercises. It creates a PDF file and it also stores it as a propietary format so that then the program can load it and teach it to you via voice, for you to train following along.
+![03- autoroutine logic](https://user-images.githubusercontent.com/70539591/114875767-03f5cc80-9dd4-11eb-8b28-17c5d22960bd.jpg)
 
-![04- follow along](https://user-images.githubusercontent.com/70539591/114875896-22f45e80-9dd4-11eb-9117-725fae5ccb28.jpg)
 #### The program talks to you so you can follow along the routines you create.
+![04- follow along](https://user-images.githubusercontent.com/70539591/114875896-22f45e80-9dd4-11eb-9117-725fae5ccb28.jpg)
 
 
 # "GOI" 
