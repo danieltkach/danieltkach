@@ -24,7 +24,6 @@ The user can either be a musician wanting to sell their productions and composit
 - Plain HTML/CSS with modules.
 - React with Redux.
 - Node.js, PostgreSQL with Sequelize.
-## Screenshots:
 ![msedge_xHTXKesgjw](https://user-images.githubusercontent.com/70539591/114872023-47e6d280-9dd0-11eb-8160-a8f9b031dc8f.jpg)
 
 ![msedge_nIQHmpyrLp](https://user-images.githubusercontent.com/70539591/114872080-559c5800-9dd0-11eb-8e9f-c932a7e0ddee.png)
@@ -41,7 +40,6 @@ I created this program to fulfill the need from instructors of the EasyFlexibili
 ## Technologies:
 - .NET with C# for Windows Desktop.
 - Text-to-speech modules.
-## Screenshots:
 #### It checks the software expiration via an internet clock.
 ![01- log in](https://user-images.githubusercontent.com/70539591/114875384-9f3a7200-9dd3-11eb-972c-a7bf69939e15.jpg)
 
@@ -62,7 +60,6 @@ Vocabulary retention system. I originally created it to learn Japanese, that's w
 ## Technologies: 
 - Borland Delphi (Pascal)
 - It uses a propietary file format to handle the vocabulary lists, saving the right and wrong answers for spaced repetition.
-## Screenshots:
 ![fill in the gaps](https://user-images.githubusercontent.com/70539591/114872550-d78c8100-9dd0-11eb-9f11-63da703ac835.png)
 ![options](https://user-images.githubusercontent.com/70539591/114872559-d8bdae00-9dd0-11eb-899e-ee70c30b8118.png)
 ![Pick the right kanji](https://user-images.githubusercontent.com/70539591/114872562-d9564480-9dd0-11eb-8be0-22383912279d.png)
