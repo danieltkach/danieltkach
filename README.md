@@ -14,10 +14,11 @@
 - ⚡ Fun fact: ...
 -->
 
-My Projects:
+Here are my most important projects:
 
-* e-Commerce
-Description: The user can be either a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
+>_ E-COMMERCE
+Description: The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
+
 Technologies: 
 - HTML/CSS with modules.
 - React with Redux
@@ -33,3 +34,14 @@ Screenshots:
 ![msedge_xX0v5IlsNz](https://user-images.githubusercontent.com/70539591/114872124-61881a00-9dd0-11eb-8e0c-edd0e1b1fa9f.png)
 
 
+>_ "GOI" 
+Description: vocabulary retention system. I originally created it to learn Japanese, that's why it has special functionalities to handle "kanji" characters, as well as the two Japanese alphabets (hiragana and katakana).
+
+Technologies: 
+- Borland Delphi (Pascal)
+- It uses a propietary file format to handle the vocabulary lists, saving the right and wrong answers for spaced repetition.
+
+![fill in the gaps](https://user-images.githubusercontent.com/70539591/114872550-d78c8100-9dd0-11eb-9f11-63da703ac835.png)
+![options](https://user-images.githubusercontent.com/70539591/114872559-d8bdae00-9dd0-11eb-899e-ee70c30b8118.png)
+![Pick the right kanji](https://user-images.githubusercontent.com/70539591/114872562-d9564480-9dd0-11eb-8be0-22383912279d.png)
+![tracking](https://user-images.githubusercontent.com/70539591/114872564-d9564480-9dd0-11eb-892f-de8b9bfd2420.png)
