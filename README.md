@@ -18,7 +18,7 @@
 
 # IC Trading
 Trading application. Data visualization from financial APIs. I am the only developer on this project, fully coding it on my own both frontend and backend. I'm being guided by financial advisors and data scientists. I'm working full time on this project for InnerCore.ai
-![msedge_sbGJl1sCsL](https://user-images.githubusercontent.com/70539591/116343198-61b5eb80-a7ba-11eb-896f-5453b41ff740.png)
+![msedge_FVCRCSxMKY](https://user-images.githubusercontent.com/70539591/116771420-924b8e80-aa21-11eb-8fa0-b81f03c73342.png)
 ## Technologies:
 - React, Node.js, mongoDB.
 
