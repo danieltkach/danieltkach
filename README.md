@@ -16,16 +16,16 @@
 - ⚡ Fun fact: ...
 -->
 # AI Grafimar
-Maritime control application. I took this screenshot on May 21st, a holiday in Chile, so ships were parading, see how beautiful it looks! And it's so much fun to work in this project.
+Maritime control application. It's so much fun to work in this project.
 ![image](https://user-images.githubusercontent.com/70539591/119163818-25c91b80-ba32-11eb-9530-5f2817783ebf.png)
 ## Technologies:
-- React, SASS, Node.js, MongoDB.
+- React, SASS, Node.js, MongoDB, Leaflet.
 
 # IC Trading
 Trading application. Data visualization from financial APIs. I am the only developer on this project, fully coding it on my own both frontend and backend. I'm being guided by financial advisors and data scientists. I'm working full time on this project for InnerCore.ai
 ![msedge_FVCRCSxMKY](https://user-images.githubusercontent.com/70539591/116771420-924b8e80-aa21-11eb-8fa0-b81f03c73342.png)
 ## Technologies:
-- React, Node.js, MongoDB.
+- React, Node.js, MongoDB, Plotly.
 
 ---
 # "BoomSounds e-commerce"
