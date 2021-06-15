@@ -17,7 +17,7 @@
 -->
 # AI Grafimar
 Maritime control application. It's so much fun to work in this project. I'm developing this for the Chile's Army, so that they can control maritime traffic. The user can set up alarms for different situations, such as when two vessels are too close together to detect illegal exchanges, or when they are in a forbidden zone and so on.
-![image](https://user-images.githubusercontent.com/70539591/121015751-b7929180-c771-11eb-8eba-afbc4275fee1.png)
+![image](https://user-images.githubusercontent.com/70539591/121983931-7e0ce800-cd68-11eb-9169-775490b7d8df.png)
 ![image](https://user-images.githubusercontent.com/70539591/121104492-8ac59500-c7d8-11eb-80e6-07a490e0f5d6.png)
 ![image](https://user-images.githubusercontent.com/70539591/119163818-25c91b80-ba32-11eb-9530-5f2817783ebf.png)
 ![image](https://user-images.githubusercontent.com/70539591/119894766-6386e200-bf13-11eb-99e2-b9e951bf5aa9.png)
