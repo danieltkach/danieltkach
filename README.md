@@ -30,9 +30,12 @@ Maritime control application. It's so much fun to work in this project. I'm deve
 Traffic control application for Chilean logistic company. It displays different kinds of visualizations to allow for detailed follow up of the trucks fleet. For instance, the dots represent how long vehicles parked, from green representing just a few seconds to red, implying the vehicle stopped for several minutes, thus allowing to detect irregularities. The application generates other type of reports, which can be downloaded in .csv format.
 ![msedge_Gs2xgTOkKH](https://user-images.githubusercontent.com/70539591/159506646-e0a835ec-8d40-4913-b66a-a36933d46c9d.png)
 ![msedge_yd48LPpPMA](https://user-images.githubusercontent.com/70539591/159508075-c9a0a9fc-db1a-439d-bbc3-50cb363c5147.png)
+![RWFGb0u2Gc](https://user-images.githubusercontent.com/70539591/160671821-d5a5f01b-eb29-45b5-ac84-7232bfa297f7.png)
+
 
 ## Technologies: 
 I designed, architected and coded this application as a Fullstack Developer, the only one in the project, utilizing React with Styled Components, Leaftlet, Plotly, Node.js and MongoDB. I deployed the backend on Heroku and the frontend on Cloudflare.
+
 
 
 # IC Trading
