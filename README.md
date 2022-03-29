@@ -18,8 +18,11 @@
 # AI Grafimar
 Maritime control application. It's so much fun to work in this project. I'm developing this for the Chile's Army, so that they can control maritime traffic. The user can set up alarms for different situations, such as when two vessels are too close together to detect illegal exchanges, or when they are in a forbidden zone and so on.
 ![image](https://user-images.githubusercontent.com/70539591/122461353-9c9df980-cf89-11eb-8ef7-1a41a9f8f929.png)
+
 ![image](https://user-images.githubusercontent.com/70539591/121104492-8ac59500-c7d8-11eb-80e6-07a490e0f5d6.png)
+
 ![image](https://user-images.githubusercontent.com/70539591/119163818-25c91b80-ba32-11eb-9530-5f2817783ebf.png)
+
 ![image](https://user-images.githubusercontent.com/70539591/119894766-6386e200-bf13-11eb-99e2-b9e951bf5aa9.png)
 
 ## Technologies:
@@ -29,8 +32,10 @@ Maritime control application. It's so much fun to work in this project. I'm deve
 # IC Logistic
 Traffic control application for Chilean logistic company. It displays different kinds of visualizations to allow for detailed follow up of the trucks fleet. For instance, the dots represent how long vehicles parked, from green representing just a few seconds to red, implying the vehicle stopped for several minutes, thus allowing to detect irregularities. The application generates other type of reports, which can be downloaded in .csv format.
 ![msedge_Gs2xgTOkKH](https://user-images.githubusercontent.com/70539591/159506646-e0a835ec-8d40-4913-b66a-a36933d46c9d.png)
+
 ![msedge_yd48LPpPMA](https://user-images.githubusercontent.com/70539591/159508075-c9a0a9fc-db1a-439d-bbc3-50cb363c5147.png)
-![RWFGb0u2Gc](https://user-images.githubusercontent.com/70539591/160671821-d5a5f01b-eb29-45b5-ac84-7232bfa297f7.png)
+
+![Ho5kkxi2qN](https://user-images.githubusercontent.com/70539591/160674601-0d3ae9b0-0088-4bf7-abe9-833cce8b1f7f.png)
 
 
 ## Technologies: 
