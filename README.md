@@ -35,6 +35,8 @@ Traffic control application for Chilean logistic company. It displays different 
 
 ![msedge_yd48LPpPMA](https://user-images.githubusercontent.com/70539591/159508075-c9a0a9fc-db1a-439d-bbc3-50cb363c5147.png)
 
+![msedge_xCdhe5OTaY](https://user-images.githubusercontent.com/70539591/160675125-f75e3449-1b25-432e-be2a-2dc2fc9f5b6f.png)
+
 ![Ho5kkxi2qN](https://user-images.githubusercontent.com/70539591/160674601-0d3ae9b0-0088-4bf7-abe9-833cce8b1f7f.png)
 
 
