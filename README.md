@@ -31,6 +31,8 @@ Maritime control application. It's so much fun to work in this project. I'm deve
 
 # IC Logistic
 Traffic control application for Chilean logistic company. It displays different kinds of visualizations to allow for detailed follow up of the trucks fleet. For instance, the dots represent how long vehicles parked, from green representing just a few seconds to red, implying the vehicle stopped for several minutes, thus allowing to detect irregularities. The application generates other type of reports, which can be downloaded in .csv format.
+![image](https://user-images.githubusercontent.com/70539591/166131077-b74d8ee6-1932-4868-aa95-0a00c2c5241a.png)
+
 ![msedge_Gs2xgTOkKH](https://user-images.githubusercontent.com/70539591/159506646-e0a835ec-8d40-4913-b66a-a36933d46c9d.png)
 
 ![msedge_yd48LPpPMA](https://user-images.githubusercontent.com/70539591/159508075-c9a0a9fc-db1a-439d-bbc3-50cb363c5147.png)
