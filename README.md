@@ -28,7 +28,7 @@ Maritime control application. It's so much fun to work in this project. I'm deve
 ## Technologies:
 - React, SASS, Node.js, MongoDB, Leaflet.
 
-
+---
 # IC Logistic
 Traffic control application for Chilean logistic company. It displays different kinds of visualizations to allow for detailed follow up of the trucks fleet. For instance, the dots represent how long vehicles parked, from green representing just a few seconds to red, implying the vehicle stopped for several minutes, thus allowing to detect irregularities. The application generates other type of reports, which can be downloaded in .csv format.
 ![image](https://user-images.githubusercontent.com/70539591/166131077-b74d8ee6-1932-4868-aa95-0a00c2c5241a.png)
@@ -45,13 +45,22 @@ Traffic control application for Chilean logistic company. It displays different 
 ## Technologies: 
 I designed, architected and coded this application as a Fullstack Developer, the only one in the project, utilizing React with Styled Components, Leaftlet, Plotly, Node.js and MongoDB. I deployed the backend on Heroku and the frontend on Cloudflare.
 
-
-
+---
 # IC Trading
 Trading application. Data visualization from financial APIs. I am the only developer on this project, fully coding it on my own both frontend and backend. I'm being guided by financial advisors and data scientists. I'm working full time on this project for InnerCore.ai
 ![msedge_FVCRCSxMKY](https://user-images.githubusercontent.com/70539591/116771420-924b8e80-aa21-11eb-8fa0-b81f03c73342.png)
 ## Technologies:
 - React, Node.js, MongoDB, Plotly.
+
+
+# Money collecting app (Vaquita Escolar)
+The application makes it easy to collect money for a specific goal, allowing transparency since it shares who provided funds and how much. I designed it with a school children feel to make it engaging for schools to use. It also has a "vertical layout" though it's a responsie web app. It implements the MercadoPago API (local payment wallet).
+![Screenshot_20220617-163957](https://user-images.githubusercontent.com/70539591/225713654-9c261a7d-dc05-42a7-8d77-bef670fd4577.png)
+![Screenshot_20220617-164213](https://user-images.githubusercontent.com/70539591/225713790-86868f60-b85f-4bbf-9a65-8159dc3e37d7.png)
+![Screenshot_20220617-164237](https://user-images.githubusercontent.com/70539591/225713987-5b74a241-786b-4d42-b232-f75328737739.png)
+![Screenshot_20220617-165037](https://user-images.githubusercontent.com/70539591/225714083-fd88a266-af46-4eac-9cee-04439a05f2c1.png)
+![Screenshot_20220617-164922](https://user-images.githubusercontent.com/70539591/225714124-59d9172b-69c9-466d-b602-305d25ec2768.png)
+
 
 ---
 # "BoomSounds e-commerce"
