@@ -56,9 +56,9 @@ Trading application. Data visualization from financial APIs. I am the only devel
 # Money collecting app (Vaquita Escolar)
 The application makes it easy to collect money for a specific goal, allowing transparency since it shares who provided funds and how much. I designed it with a school children feel to make it engaging for schools to use. It also has a "vertical layout" though it's a responsie web app. It implements the MercadoPago API (local payment wallet).
 
-<img src="https://user-images.githubusercontent.com/70539591/225713654-9c261a7d-dc05-42a7-8d77-bef670fd4577.png" height="400"><img src="https://user-images.githubusercontent.com/70539591/225713790-86868f60-b85f-4bbf-9a65-8159dc3e37d7.png" height="400"><img src="https://user-images.githubusercontent.com/70539591/225713987-5b74a241-786b-4d42-b232-f75328737739.png" height="400">
+<img src="https://user-images.githubusercontent.com/70539591/225713654-9c261a7d-dc05-42a7-8d77-bef670fd4577.png" height="400">   <img src="https://user-images.githubusercontent.com/70539591/225713790-86868f60-b85f-4bbf-9a65-8159dc3e37d7.png" height="400">   <img src="https://user-images.githubusercontent.com/70539591/225713987-5b74a241-786b-4d42-b232-f75328737739.png" height="400">
 
-<img src="https://user-images.githubusercontent.com/70539591/225714083-fd88a266-af46-4eac-9cee-04439a05f2c1.png" height="400"><img src="https://user-images.githubusercontent.com/70539591/225714124-59d9172b-69c9-466d-b602-305d25ec2768.png" height="400"><img src="https://user-images.githubusercontent.com/70539591/225714779-2fdf9c0b-8aa1-4a6d-a79a-1c135a1a3903.png" height="400">
+<img src="https://user-images.githubusercontent.com/70539591/225714083-fd88a266-af46-4eac-9cee-04439a05f2c1.png" height="400">   <img src="https://user-images.githubusercontent.com/70539591/225714124-59d9172b-69c9-466d-b602-305d25ec2768.png" height="400">   <img src="https://user-images.githubusercontent.com/70539591/225714779-2fdf9c0b-8aa1-4a6d-a79a-1c135a1a3903.png" height="400">
 
 ---
 # "BoomSounds e-commerce"
