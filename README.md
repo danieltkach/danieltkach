@@ -60,9 +60,7 @@ The application makes it easy to collect money for a specific goal, allowing tra
 
 <img src="https://user-images.githubusercontent.com/70539591/225714083-fd88a266-af46-4eac-9cee-04439a05f2c1.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225714124-59d9172b-69c9-466d-b602-305d25ec2768.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225714779-2fdf9c0b-8aa1-4a6d-a79a-1c135a1a3903.png" height="400">
 
-![Screenshot_20220617-164957](https://user-images.githubusercontent.com/70539591/225718642-42511d49-953e-4f6a-86ed-49fde33d3af0.png)
-![Screenshot_20220617-164352](https://user-images.githubusercontent.com/70539591/225718667-ae53d087-4d33-4f21-b394-a64b2f2a752b.png)
-![Screenshot_20220617-164442](https://user-images.githubusercontent.com/70539591/225718687-fc17fe55-89fb-428d-a6ad-6a9a2d229113.png)
+<img src="https://user-images.githubusercontent.com/70539591/225718642-42511d49-953e-4f6a-86ed-49fde33d3af0.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225718667-ae53d087-4d33-4f21-b394-a64b2f2a752b.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225718687-fc17fe55-89fb-428d-a6ad-6a9a2d229113.png" height="400">
 
 ---
 # "BoomSounds e-commerce"
