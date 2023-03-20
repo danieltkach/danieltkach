@@ -71,7 +71,7 @@ Fullstack React-Node-MongoDB application which includes user authentication and 
 * Backend API using Node with Express.
 * Deployed on Cloudflare (frontend), Render (backend) and MongoDB Atlas Cloud.
 
-<img src="https://user-images.githubusercontent.com/70539591/226284194-751442db-a1bb-4ac9-9fb7-74dad4670e90.jpg" height="400">     <img src="https://user-images.githubusercontent.com/70539591/226284197-30e23b26-34b0-4e54-af37-db8817151122.jpg" height="400">     <img src="https://user-images.githubusercontent.com/70539591/226284200-12badc0a-5983-4f4d-8c9c-dcac0170c0a0.jpg" height="400">     <img src="https://user-images.githubusercontent.com/70539591/226284206-66b87f3a-d5cd-4ea0-a7a2-289fc73ed7e5.jpg" height="400"> 
+<img src="https://user-images.githubusercontent.com/70539591/226284194-751442db-a1bb-4ac9-9fb7-74dad4670e90.jpg" width="300">     <img src="https://user-images.githubusercontent.com/70539591/226284197-30e23b26-34b0-4e54-af37-db8817151122.jpg" width="300>     <img src="https://user-images.githubusercontent.com/70539591/226284200-12badc0a-5983-4f4d-8c9c-dcac0170c0a0.jpg" width="300">     <img src="https://user-images.githubusercontent.com/70539591/226284206-66b87f3a-d5cd-4ea0-a7a2-289fc73ed7e5.jpg" width="300> 
 
 ---
 # "BoomSounds e-commerce"
