@@ -63,6 +63,24 @@ The application makes it easy to collect money for a specific goal, allowing tra
 <img src="https://user-images.githubusercontent.com/70539591/225718642-42511d49-953e-4f6a-86ed-49fde33d3af0.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225718667-ae53d087-4d33-4f21-b394-a64b2f2a752b.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225718687-fc17fe55-89fb-428d-a6ad-6a9a2d229113.png" height="400">
 
 ---
+# Mentor Blog
+Fullstack React-Node-MongoDB application which includes user authentication and roles where users can post an article, comment and react on other articles and share links to those articles.
+
+* I designed the client interface, templated the React project using Vite.js, implemented Styled-Components, Context API and Redux Toolkit. It is responsive, using Flexbox and media queries.
+* It includes testing with Vitest/Jest, React Testing Library, and MSW (Mock Service Worker).
+* Backend API using Node with Express.
+* Deployed on Cloudflare (frontend), Render (backend) and MongoDB Atlas Cloud.
+
+### Courses and book references:
+* React with Test Driven Development (by Basar Buyukkharaman)
+* JavaScript Unit Testing - The Practical Guide (by Maximilian Schwarzmüller)
+* React Testing Library and Jest: The Complete Guide (by Stephen Grider)
+* Software Testing Masterclass (2023) - From Novice to Expert (by Ozan Ilhan)
+* Irvine D., Mastering React Test-Driven Development, 2ed 2022 (Pakt Publishing)
+![image](https://user-images.githubusercontent.com/70539591/226283400-81463148-81a1-44f9-a664-f5eca0944bee.png)
+
+
+---
 # "BoomSounds e-commerce"
 The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
 ## Technologies: 
