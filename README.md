@@ -66,18 +66,24 @@ The application makes it easy to collect money for a specific goal, allowing tra
 # Mentor Blog
 Fullstack React-Node-MongoDB application which includes user authentication and roles where users can post an article, comment and react on other articles and share links to those articles.
 
+
+![Screenshot_1](https://user-images.githubusercontent.com/70539591/226284194-751442db-a1bb-4ac9-9fb7-74dad4670e90.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/70539591/226284197-30e23b26-34b0-4e54-af37-db8817151122.jpg)
+![Screenshot_3](https://user-images.githubusercontent.com/70539591/226284200-12badc0a-5983-4f4d-8c9c-dcac0170c0a0.jpg)
+![Screenshot_4](https://user-images.githubusercontent.com/70539591/226284206-66b87f3a-d5cd-4ea0-a7a2-289fc73ed7e5.jpg)
+
 * I designed the client interface, templated the React project using Vite.js, implemented Styled-Components, Context API and Redux Toolkit. It is responsive, using Flexbox and media queries.
 * It includes testing with Vitest/Jest, React Testing Library, and MSW (Mock Service Worker).
 * Backend API using Node with Express.
 * Deployed on Cloudflare (frontend), Render (backend) and MongoDB Atlas Cloud.
 
-### Courses and book references:
+#### Courses and book references:
 * React with Test Driven Development (by Basar Buyukkharaman)
 * JavaScript Unit Testing - The Practical Guide (by Maximilian Schwarzmüller)
 * React Testing Library and Jest: The Complete Guide (by Stephen Grider)
 * Software Testing Masterclass (2023) - From Novice to Expert (by Ozan Ilhan)
 * Irvine D., Mastering React Test-Driven Development, 2ed 2022 (Pakt Publishing)
-![image](https://user-images.githubusercontent.com/70539591/226283400-81463148-81a1-44f9-a664-f5eca0944bee.png)
+
 
 
 ---
