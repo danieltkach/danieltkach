@@ -66,11 +66,10 @@ The application makes it easy to collect money for a specific goal, allowing tra
 # Mentor Blog
 Fullstack React-Node-MongoDB application which includes user authentication and roles where users can post an article, comment and react on other articles and share links to those articles.
 
-
-![Screenshot_1](https://user-images.githubusercontent.com/70539591/226284194-751442db-a1bb-4ac9-9fb7-74dad4670e90.jpg)
-![Screenshot_2](https://user-images.githubusercontent.com/70539591/226284197-30e23b26-34b0-4e54-af37-db8817151122.jpg)
-![Screenshot_3](https://user-images.githubusercontent.com/70539591/226284200-12badc0a-5983-4f4d-8c9c-dcac0170c0a0.jpg)
-![Screenshot_4](https://user-images.githubusercontent.com/70539591/226284206-66b87f3a-d5cd-4ea0-a7a2-289fc73ed7e5.jpg)
+<img src="https://user-images.githubusercontent.com/70539591/226284194-751442db-a1bb-4ac9-9fb7-74dad4670e90.jpg" height="400"> 
+<img src="https://user-images.githubusercontent.com/70539591/226284197-30e23b26-34b0-4e54-af37-db8817151122.jpg" height="400"> 
+<img src="https://user-images.githubusercontent.com/70539591/226284200-12badc0a-5983-4f4d-8c9c-dcac0170c0a0.jpg" height="400"> 
+<img src="https://user-images.githubusercontent.com/70539591/226284206-66b87f3a-d5cd-4ea0-a7a2-289fc73ed7e5.jpg" height="400"> 
 
 * I designed the client interface, templated the React project using Vite.js, implemented Styled-Components, Context API and Redux Toolkit. It is responsive, using Flexbox and media queries.
 * It includes testing with Vitest/Jest, React Testing Library, and MSW (Mock Service Worker).
