@@ -89,6 +89,14 @@ The user can either be a musician wanting to sell their productions and composit
 ![msedge_xX0v5IlsNz](https://user-images.githubusercontent.com/70539591/114872124-61881a00-9dd0-11eb-8e0c-edd0e1b1fa9f.png)
 
 ---
+# Sales Times Reporter
+This application receives data in .csv format from a Shopify store and calculates the times sales happen more frequently each day and stores them in time cells. Then by restricting the amount of sales per hour you can identify the most effective time spans to display ads. By this application I was able to 10x sales right away.
+
+![SalesTimesReporter](https://github.com/danieltkach/danieltkach/assets/70539591/5595f726-4ae7-4e19-b3bd-02a6d3e8b138)
+
+![SalesTimesReporter2](https://github.com/danieltkach/danieltkach/assets/70539591/0ada4860-9761-4e92-a5ce-5050d62f9f99)
+
+---
 # "Routine Planner"
 I created this program to fulfill the need from instructors of the EasyFlexibility method to have quick lesson plans.
 
