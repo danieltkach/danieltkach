@@ -91,6 +91,7 @@ The user can either be a musician wanting to sell their productions and composit
 ---
 # Sales Times Reporter
 This application receives data in .csv format from a Shopify store and calculates the times sales happen more frequently each day and stores them in time cells. Then by restricting the amount of sales per hour you can identify the most effective time spans to display ads. By this application I was able to 10x sales right away.
+This is a .net C# console application:
 
 ![SalesTimesReporter](https://github.com/danieltkach/danieltkach/assets/70539591/5595f726-4ae7-4e19-b3bd-02a6d3e8b138)
 
