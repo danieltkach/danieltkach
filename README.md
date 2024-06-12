@@ -29,6 +29,23 @@ Maritime control application. It's so much fun to work in this project. I'm deve
 - React, SASS, Node.js, MongoDB, Leaflet.
 
 ---
+## PersonalizedVideo
+The application creates a personalized animation based on a clients data file which the user loads up. It works with Lottie API to handle the personalization along with the audio syncronization, and it makes use of the OAuth Gmail API to send emails on behalf of the user.
+I developed both the frontend and backend as a freelance project to a Chilean video producer company called "Bonsai Films".
+
+Animation configuration panel:
+![image](https://github.com/danieltkach/danieltkach/assets/70539591/4763aea7-fd24-4818-8166-b900ba74d2a1)
+
+Email configuration:
+![image](https://github.com/danieltkach/danieltkach/assets/70539591/36412df5-7721-4ce3-a025-54fb8d89a166)
+
+Player:
+![image](https://github.com/danieltkach/danieltkach/assets/70539591/974724d9-b3ff-4ae1-b776-25f186d97629)
+
+## Technologies:
+- React, Node.js, MongoDB, Lottie, Gmail OAuth API.
+
+---
 # IC Logistic
 Traffic control application for Chilean logistic company. It displays different kinds of visualizations to allow for detailed follow up of the trucks fleet. For instance, the dots represent how long vehicles parked, from green representing just a few seconds to red, implying the vehicle stopped for several minutes, thus allowing to detect irregularities. The application generates other type of reports, which can be downloaded in .csv format.
 ![image](https://user-images.githubusercontent.com/70539591/166131077-b74d8ee6-1932-4868-aa95-0a00c2c5241a.png)
