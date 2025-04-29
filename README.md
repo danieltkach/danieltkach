@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my github. Here are my most important projects:
 - 📫 How to reach me: danieltkach@gmail.com
 
-# SeaGuardian (ex Grafimar)
+# SeaGuardian
 Maritime control application. It's so much fun to work in this project. I'm developing this for the Chile's Army, so that they can control maritime traffic. The user can set up alarms for different situations, such as when two vessels are too close together to detect illegal exchanges, or when they are in a forbidden zone and so on.
 ![image](https://user-images.githubusercontent.com/70539591/122461353-9c9df980-cf89-11eb-8ef7-1a41a9f8f929.png)
 
