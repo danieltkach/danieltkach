@@ -55,6 +55,13 @@ Trading application. Data visualization from financial APIs. I am the only devel
 ## Technologies:
 - React, Node.js, MongoDB, Plotly.
 
+# Agricultural Dashboard
+The dashboard shows the key indicators for an agricultural business, allowing the user to get insights, discover situations that are not seen by just looking at the raw data, hence allowing them to take discover issues, see opportunities, and take important decisions regarding the business.
+<img width="1435" height="722" alt="image" src="https://github.com/user-attachments/assets/77c43016-bafe-4999-846c-e7c882e40c8c" />
+## Technologies:
+- React (Vite, Typescript), SCSS, Recharts.
+<img width="1430" height="700" alt="image" src="https://github.com/user-attachments/assets/d15a8add-abc7-4a5b-8a31-56ee01f6f532" />
+
 
 # Money collecting app (Vaquita Escolar)
 The application makes it easy to collect money for a specific goal, allowing transparency since it shares who provided funds and how much. I designed it with a school children feel to make it engaging for schools to use. It also has a "vertical layout" though it's a responsie web app. It implements the MercadoPago API (local payment wallet).
