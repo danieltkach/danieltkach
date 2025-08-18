@@ -44,17 +44,18 @@ Traffic control application for Chilean logistic company. It displays different 
 
 ![Ho5kkxi2qN](https://user-images.githubusercontent.com/70539591/160674601-0d3ae9b0-0088-4bf7-abe9-833cce8b1f7f.png)
 
-
 ## Technologies: 
 I designed, architected and coded this application as a Fullstack Developer, the only one in the project, utilizing React with Styled Components, Leaftlet, Plotly, Node.js and MongoDB. I deployed the backend on Heroku and the frontend on Cloudflare.
 
 ---
 # IC Trading
 Trading application. Data visualization from financial APIs. I am the only developer on this project, fully coding it on my own both frontend and backend. I'm being guided by financial advisors and data scientists. I'm working full time on this project for InnerCore.ai
+
 ![msedge_FVCRCSxMKY](https://user-images.githubusercontent.com/70539591/116771420-924b8e80-aa21-11eb-8fa0-b81f03c73342.png)
 ## Technologies:
 - React, Node.js, MongoDB, Plotly.
 
+---
 # Agricultural Dashboard
 The dashboard shows the key indicators for an agricultural business, allowing the user to get insights, discover situations that are not seen by just looking at the raw data, hence allowing them to take discover issues, see opportunities, and take important decisions regarding the business.
 <img width="1435" height="722" alt="image" src="https://github.com/user-attachments/assets/77c43016-bafe-4999-846c-e7c882e40c8c" />
@@ -76,6 +77,21 @@ The application makes it easy to collect money for a specific goal, allowing tra
 <img src="https://user-images.githubusercontent.com/70539591/225714083-fd88a266-af46-4eac-9cee-04439a05f2c1.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225714124-59d9172b-69c9-466d-b602-305d25ec2768.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225714779-2fdf9c0b-8aa1-4a6d-a79a-1c135a1a3903.png" height="400">
 
 <img src="https://user-images.githubusercontent.com/70539591/225718642-42511d49-953e-4f6a-86ed-49fde33d3af0.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225718667-ae53d087-4d33-4f21-b394-a64b2f2a752b.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225718687-fc17fe55-89fb-428d-a6ad-6a9a2d229113.png" height="400">
+
+---
+# Iron Bamboo Dojo website
+
+This is the website of a martial arts and meditation school. It showcases very clean and professional design, allowing the user to register for courses, and use different tools for self improvement, such as "habits building". I designed everything from the ground up starting with the idea, and on the implementation side, from the frontend to the backend, including domain and business email setup.
+
+## Technologies
+- React with React Router 7 in Framework mode with file based routing, Typescript, plain CSS, Supabase, Netlify.
+
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/c5661775-1237-4719-b804-747246295c79" />
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/4abf1b83-9a84-436d-b2a3-84defff0a914" />
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/d3c3c6cc-b24b-408d-9bdb-4b02972134e5" />
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/889e6983-1b9b-4543-b554-3a56b62d6aaa" />
+<img width="1439" height="770" alt="image" src="https://github.com/user-attachments/assets/1ba6f817-d023-4bc0-a6a3-b1ce7c17f4f1" />
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/84d6bdfb-6dd4-412d-81c7-32788a3022b0" />
 
 ---
 # Mentor Blog
