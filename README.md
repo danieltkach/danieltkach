@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my github. Here are my most important projects:
+### Hi there 👋 Welcome to my github. Here are my most notable projects:
 - 📫 How to reach me: danieltkach@gmail.com
 
 ---
