@@ -1,12 +1,14 @@
 ### Hi there 👋 Welcome to my github. Here are my most important projects:
 - 📫 How to reach me: danieltkach@gmail.com
 
+---
 # Angular + .NET
 - Dating App
 https://github.com/danieltkach/ASP.NET-Angular-Dating
 
+---
 # React + NodeJS
-
+---
 ## SeaGuardian
 Maritime control application. It's so much fun to work in this project. I'm developing this for the Chile's Army, so that they can control maritime traffic. The user can set up alarms for different situations, such as when two vessels are too close together to detect illegal exchanges, or when they are in a forbidden zone and so on.
 ![image](https://user-images.githubusercontent.com/70539591/122461353-9c9df980-cf89-11eb-8ef7-1a41a9f8f929.png)
@@ -75,6 +77,7 @@ The dashboard shows the key indicators for an agricultural business, allowing th
 ### Technologies:
 - React (Vite, Typescript), SCSS, Recharts.
 
+---
 ## Money collecting app (Vaquita Escolar)
 The application makes it easy to collect money for a specific goal, allowing transparency since it shares who provided funds and how much. I designed it with a school children feel to make it engaging for schools to use. It also has a "vertical layout" though it's a responsie web app. It implements the MercadoPago API (local payment wallet).
 
@@ -89,15 +92,15 @@ The application makes it easy to collect money for a specific goal, allowing tra
 
 This is the website of a martial arts and meditation school. It showcases very clean and professional design, allowing the user to register for courses, and use different tools for self improvement, such as "habits building". I designed everything from the ground up starting with the idea, and on the implementation side, from the frontend to the backend, including domain and business email setup.
 
-### Technologies
-- React with React Router 7 in Framework mode with file based routing, Typescript, plain CSS, Supabase, Netlify.
-
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/c5661775-1237-4719-b804-747246295c79" />
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/4abf1b83-9a84-436d-b2a3-84defff0a914" />
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/d3c3c6cc-b24b-408d-9bdb-4b02972134e5" />
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/889e6983-1b9b-4543-b554-3a56b62d6aaa" />
 <img width="1439" height="770" alt="image" src="https://github.com/user-attachments/assets/1ba6f817-d023-4bc0-a6a3-b1ce7c17f4f1" />
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/84d6bdfb-6dd4-412d-81c7-32788a3022b0" />
+
+### Technologies
+- React with React Router 7 in Framework mode with file based routing, Typescript, plain CSS, Supabase, Netlify.
 
 ---
 ## Mentor Blog
@@ -113,10 +116,7 @@ Fullstack React-Node-MongoDB application which includes user authentication and 
 ---
 ## "BoomSounds e-commerce"
 The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
-### Technologies: 
-- Plain HTML/CSS with modules.
-- React with Redux.
-- Node.js, PostgreSQL with Sequelize.
+
 ![msedge_xHTXKesgjw](https://user-images.githubusercontent.com/70539591/114872023-47e6d280-9dd0-11eb-8160-a8f9b031dc8f.jpg)
 
 ![msedge_nIQHmpyrLp](https://user-images.githubusercontent.com/70539591/114872080-559c5800-9dd0-11eb-8e9f-c932a7e0ddee.png)
@@ -125,9 +125,14 @@ The user can either be a musician wanting to sell their productions and composit
 
 ![msedge_xX0v5IlsNz](https://user-images.githubusercontent.com/70539591/114872124-61881a00-9dd0-11eb-8e0c-edd0e1b1fa9f.png)
 
----
+### Technologies: 
+- Plain HTML/CSS with modules.
+- React with Redux.
+- Node.js, PostgreSQL with Sequelize.
 
+---
 # .NET C# 
+---
 ## Sales Times Reporter
 This application receives data in .csv format from a Shopify store and calculates the times sales happen more frequently each day and stores them in time cells. Then by restricting the amount of sales per hour you can identify the most effective time spans to display ads. By this application I was able to 10x sales right away.
 This is a .net C# console application:
@@ -139,30 +144,33 @@ This is a .net C# console application:
 ---
 ## "Routine Planner"
 I created this program to fulfill the need from instructors of the EasyFlexibility method to have quick lesson plans.
+ 
+It checks the software expiration via an internet clock.
+![01- log in](https://user-images.githubusercontent.com/70539591/114875384-9f3a7200-9dd3-11eb-972c-a7bf69939e15.jpg)
+
+Main window of the application. Categories on top, exercises list on the left, exercise information in the center. The pictures are all built within the .exe as "resource".
+On the right you have the routine structure, you can add exercises to each tab: warmup, rounds 1 to 3, cool down. The Save Lesson Plan button creates an html and PDF version of the routine.
+![02- main window](https://user-images.githubusercontent.com/70539591/114875590-d1e46a80-9dd3-11eb-887e-b9e3084546fb.jpg)
+
+This form contains the most complex logic of all the program. It creates a splits lesson plan automatically by picking difficulty and split, whether you want to include a cool down and zejax exercises. It creates a PDF file and it also stores it as a propietary format so that then the program can load it and teach it to you via voice, for you to train following along.
+![03- autoroutine logic](https://user-images.githubusercontent.com/70539591/114875767-03f5cc80-9dd4-11eb-8b28-17c5d22960bd.jpg)
+
+ The program talks to you so you can follow along the routines you create.
+![04- follow along](https://user-images.githubusercontent.com/70539591/114875896-22f45e80-9dd4-11eb-9117-725fae5ccb28.jpg)
 
 ### Technologies:
 - .NET with C# for Windows Desktop.
 - Text-to-speech modules.
-#### It checks the software expiration via an internet clock.
-![01- log in](https://user-images.githubusercontent.com/70539591/114875384-9f3a7200-9dd3-11eb-972c-a7bf69939e15.jpg)
-
-#### Main window of the application. Categories on top, exercises list on the left, exercise information in the center. The pictures are all built within the .exe as "resource".
-On the right you have the routine structure, you can add exercises to each tab: warmup, rounds 1 to 3, cool down. The Save Lesson Plan button creates an html and PDF version of the routine.
-![02- main window](https://user-images.githubusercontent.com/70539591/114875590-d1e46a80-9dd3-11eb-887e-b9e3084546fb.jpg)
-
-#### This contains the most complex logic of all the program. It creates a splits lesson plan automatically by picking difficulty and split, whether you want to include a cool down and zejax exercises. It creates a PDF file and it also stores it as a propietary format so that then the program can load it and teach it to you via voice, for you to train following along.
-![03- autoroutine logic](https://user-images.githubusercontent.com/70539591/114875767-03f5cc80-9dd4-11eb-8b28-17c5d22960bd.jpg)
-
-#### The program talks to you so you can follow along the routines you create.
-![04- follow along](https://user-images.githubusercontent.com/70539591/114875896-22f45e80-9dd4-11eb-9117-725fae5ccb28.jpg)
 
 ---
-# "GOI" 
+## "GOI" 
 Vocabulary retention system. I originally created it to learn Japanese, that's why it has special functionalities to handle "kanji" characters, as well as the two Japanese alphabets (hiragana and katakana).
-## Technologies: 
-- Borland Delphi (Pascal)
-- It uses a propietary file format to handle the vocabulary lists, saving the right and wrong answers for spaced repetition.
+
 ![fill in the gaps](https://user-images.githubusercontent.com/70539591/114872550-d78c8100-9dd0-11eb-9f11-63da703ac835.png)
 ![options](https://user-images.githubusercontent.com/70539591/114872559-d8bdae00-9dd0-11eb-899e-ee70c30b8118.png)
 ![Pick the right kanji](https://user-images.githubusercontent.com/70539591/114872562-d9564480-9dd0-11eb-8be0-22383912279d.png)
 ![tracking](https://user-images.githubusercontent.com/70539591/114872564-d9564480-9dd0-11eb-892f-de8b9bfd2420.png)
+
+### Technologies: 
+- Borland Delphi (Pascal)
+- It uses a propietary file format to handle the vocabulary lists, saving the right and wrong answers for spaced repetition.
