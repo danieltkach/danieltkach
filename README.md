@@ -132,7 +132,7 @@ The user can either be a musician wanting to sell their productions and composit
 
 ---
 # .NET C# 
----
+
 ## Sales Times Reporter
 This application receives data in .csv format from a Shopify store and calculates the times sales happen more frequently each day and stores them in time cells. Then by restricting the amount of sales per hour you can identify the most effective time spans to display ads. By this application I was able to 10x sales right away.
 This is a .net C# console application:
@@ -140,6 +140,20 @@ This is a .net C# console application:
 ![SalesTimesReporter](https://github.com/danieltkach/danieltkach/assets/70539591/5595f726-4ae7-4e19-b3bd-02a6d3e8b138)
 
 ![SalesTimesReporter2](https://github.com/danieltkach/danieltkach/assets/70539591/0ada4860-9761-4e92-a5ce-5050d62f9f99)
+
+
+---
+## Honorable mentions:
+### Guestbook
+This is a practice mini project that keeps track of guests for an event
+<img width="1112" height="645" alt="image" src="https://github.com/user-attachments/assets/601a4e9c-e2ac-4aaa-97e7-12faa3bffbdf" />
+
+
+---
+### Battleship
+This is a mini game that runs in the terminal and demonstrates basic control flow and data structures in C#. It is a lot of fun to play as it was making it!
+<img width="938" height="441" alt="image" src="https://github.com/user-attachments/assets/e57f9253-d963-4a14-8124-288e55535c06" />
+
 
 ---
 ## "Routine Planner"
