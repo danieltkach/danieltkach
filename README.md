@@ -11,7 +11,7 @@ https://github.com/danieltkach/ASP.NET-Angular-Dating
 # React + NodeJS
 
 ## SeaGuardian
-Maritime control application. It's so much fun to work in this project. I'm developing this for the Chile's Army, so that they can control maritime traffic. The user can set up alarms for different situations, such as when two vessels are too close together to detect illegal exchanges, or when they are in a forbidden zone and so on.
+Maritime control application. I developed this application for the Chile's Navy, so that they can control maritime traffic. The user can set up alarms for different situations, such as when two vessels are too close together to detect illegal exchanges, or when they are in a forbidden zone and so on.
 ![image](https://user-images.githubusercontent.com/70539591/122461353-9c9df980-cf89-11eb-8ef7-1a41a9f8f929.png)
 
 ![image](https://user-images.githubusercontent.com/70539591/121104492-8ac59500-c7d8-11eb-80e6-07a490e0f5d6.png)
@@ -21,10 +21,10 @@ Maritime control application. It's so much fun to work in this project. I'm deve
 ![image](https://user-images.githubusercontent.com/70539591/119894766-6386e200-bf13-11eb-99e2-b9e951bf5aa9.png)
 
 ### Technologies:
-- React, SASS, Node.js, MongoDB, Leaflet.
+- React, SASS, Leaflet, Node.js, MongoDB.
 
 ---
-## PersonalizedVideo
+## Personalized Video (for bonsaifilms.com)
 The application creates a personalized animation based on a clients data file which the user loads up. It works with Lottie API to handle the personalization along with the audio syncronization, and it makes use of the OAuth Gmail API to send emails on behalf of the user.
 I developed both the frontend and backend as a freelance project to a Chilean video producer company called "Bonsai Films".
 
@@ -54,7 +54,7 @@ Traffic control application for Chilean logistic company. It displays different 
 ![Ho5kkxi2qN](https://user-images.githubusercontent.com/70539591/160674601-0d3ae9b0-0088-4bf7-abe9-833cce8b1f7f.png)
 
 ### Technologies: 
-I designed, architected and coded this application as a Fullstack Developer, the only one in the project, utilizing React with Styled Components, Leaftlet, Plotly, Node.js and MongoDB. I deployed the backend on Heroku and the frontend on Cloudflare.
+I designed, architected and coded this application as a Fullstack Developer, utilizing React with Styled Components, Leaftlet, Plotly, Node.js and MongoDB. I deployed the backend on Heroku and the frontend on Cloudflare.
 
 ---
 ## IC Trading
@@ -91,7 +91,7 @@ The application makes it easy to collect money for a specific goal, allowing tra
 ---
 ## Iron Bamboo Dojo website
 
-This is the website of a martial arts and meditation school. It showcases very clean and professional design, allowing the user to register for courses, and use different tools for self improvement, such as "habits building". I designed everything from the ground up starting with the idea, and on the implementation side, from the frontend to the backend, including domain and business email setup.
+This is the website of a martial arts and meditation school. It showcases very clean and professional design, allowing the user to register for courses, and use different tools for self improvement, such as "habits building". I designed everything from the ground up starting with the idea, and on the implementation side, from the frontend to the backend, including domain and business email setup. You can see it live on www.ironbamboodojo.com
 
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/c5661775-1237-4719-b804-747246295c79" />
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/4abf1b83-9a84-436d-b2a3-84defff0a914" />
@@ -148,7 +148,6 @@ This is a .net C# console application:
 ### Guestbook
 This is a practice mini project that keeps track of guests for an event
 <img width="1112" height="645" alt="image" src="https://github.com/user-attachments/assets/601a4e9c-e2ac-4aaa-97e7-12faa3bffbdf" />
-
 
 ---
 ### Battleship
