@@ -1,11 +1,13 @@
 ### Hi there 👋 Welcome to my github. Here are my most important projects:
 - 📫 How to reach me: danieltkach@gmail.com
 
-## Angular + .NET
+# Angular + .NET
 - Dating App
 https://github.com/danieltkach/ASP.NET-Angular-Dating
 
-# SeaGuardian
+# React + NodeJS
+
+## SeaGuardian
 Maritime control application. It's so much fun to work in this project. I'm developing this for the Chile's Army, so that they can control maritime traffic. The user can set up alarms for different situations, such as when two vessels are too close together to detect illegal exchanges, or when they are in a forbidden zone and so on.
 ![image](https://user-images.githubusercontent.com/70539591/122461353-9c9df980-cf89-11eb-8ef7-1a41a9f8f929.png)
 
@@ -15,7 +17,7 @@ Maritime control application. It's so much fun to work in this project. I'm deve
 
 ![image](https://user-images.githubusercontent.com/70539591/119894766-6386e200-bf13-11eb-99e2-b9e951bf5aa9.png)
 
-## Technologies:
+### Technologies:
 - React, SASS, Node.js, MongoDB, Leaflet.
 
 ---
@@ -32,11 +34,11 @@ Email configuration:
 Player:
 ![image](https://github.com/danieltkach/danieltkach/assets/70539591/974724d9-b3ff-4ae1-b776-25f186d97629)
 
-## Technologies:
+### Technologies:
 - React, Node.js, MongoDB, Lottie, Gmail OAuth API.
 
 ---
-# IC Logistic
+## IC Logistic
 Traffic control application for Chilean logistic company. It displays different kinds of visualizations to allow for detailed follow up of the trucks fleet. For instance, the dots represent how long vehicles parked, from green representing just a few seconds to red, implying the vehicle stopped for several minutes, thus allowing to detect irregularities. The application generates other type of reports, which can be downloaded in .csv format.
 ![image](https://user-images.githubusercontent.com/70539591/166131077-b74d8ee6-1932-4868-aa95-0a00c2c5241a.png)
 
@@ -48,19 +50,19 @@ Traffic control application for Chilean logistic company. It displays different 
 
 ![Ho5kkxi2qN](https://user-images.githubusercontent.com/70539591/160674601-0d3ae9b0-0088-4bf7-abe9-833cce8b1f7f.png)
 
-## Technologies: 
+### Technologies: 
 I designed, architected and coded this application as a Fullstack Developer, the only one in the project, utilizing React with Styled Components, Leaftlet, Plotly, Node.js and MongoDB. I deployed the backend on Heroku and the frontend on Cloudflare.
 
 ---
-# IC Trading
+## IC Trading
 Trading application. Data visualization from financial APIs. I am the only developer on this project, fully coding it on my own both frontend and backend. I'm being guided by financial advisors and data scientists. I'm working full time on this project for InnerCore.ai
 
 ![msedge_FVCRCSxMKY](https://user-images.githubusercontent.com/70539591/116771420-924b8e80-aa21-11eb-8fa0-b81f03c73342.png)
-## Technologies:
+### Technologies:
 - React, Node.js, MongoDB, Plotly.
 
 ---
-# Agricultural Dashboard
+## Agricultural Dashboard
 The dashboard shows the key indicators for an agricultural business, allowing the user to get insights, discover situations that are not seen by just looking at the raw data, hence allowing them to take discover issues, see opportunities, and take important decisions regarding the business.
 <img width="1435" height="722" alt="image" src="https://github.com/user-attachments/assets/77c43016-bafe-4999-846c-e7c882e40c8c" />
 
@@ -70,10 +72,10 @@ The dashboard shows the key indicators for an agricultural business, allowing th
 
 <img width="1436" height="720" alt="image" src="https://github.com/user-attachments/assets/937fe2c1-6873-4ba3-b81b-fef39db315dc" />
 
-## Technologies:
+### Technologies:
 - React (Vite, Typescript), SCSS, Recharts.
 
-# Money collecting app (Vaquita Escolar)
+## Money collecting app (Vaquita Escolar)
 The application makes it easy to collect money for a specific goal, allowing transparency since it shares who provided funds and how much. I designed it with a school children feel to make it engaging for schools to use. It also has a "vertical layout" though it's a responsie web app. It implements the MercadoPago API (local payment wallet).
 
 <img src="https://user-images.githubusercontent.com/70539591/225713654-9c261a7d-dc05-42a7-8d77-bef670fd4577.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225713790-86868f60-b85f-4bbf-9a65-8159dc3e37d7.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225713987-5b74a241-786b-4d42-b232-f75328737739.png" height="400">
@@ -83,11 +85,11 @@ The application makes it easy to collect money for a specific goal, allowing tra
 <img src="https://user-images.githubusercontent.com/70539591/225718642-42511d49-953e-4f6a-86ed-49fde33d3af0.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225718667-ae53d087-4d33-4f21-b394-a64b2f2a752b.png" height="400">     <img src="https://user-images.githubusercontent.com/70539591/225718687-fc17fe55-89fb-428d-a6ad-6a9a2d229113.png" height="400">
 
 ---
-# Iron Bamboo Dojo website
+## Iron Bamboo Dojo website
 
 This is the website of a martial arts and meditation school. It showcases very clean and professional design, allowing the user to register for courses, and use different tools for self improvement, such as "habits building". I designed everything from the ground up starting with the idea, and on the implementation side, from the frontend to the backend, including domain and business email setup.
 
-## Technologies
+### Technologies
 - React with React Router 7 in Framework mode with file based routing, Typescript, plain CSS, Supabase, Netlify.
 
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/c5661775-1237-4719-b804-747246295c79" />
@@ -98,7 +100,7 @@ This is the website of a martial arts and meditation school. It showcases very c
 <img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/84d6bdfb-6dd4-412d-81c7-32788a3022b0" />
 
 ---
-# Mentor Blog
+## Mentor Blog
 Fullstack React-Node-MongoDB application which includes user authentication and roles where users can post an article, comment and react on other articles and share links to those articles.
 
 * I designed the client interface, templated the React project using Vite.js, implemented Styled-Components, Context API and Redux Toolkit. It is responsive, using Flexbox and media queries.
@@ -109,9 +111,9 @@ Fullstack React-Node-MongoDB application which includes user authentication and 
 <img src="https://user-images.githubusercontent.com/70539591/226284194-751442db-a1bb-4ac9-9fb7-74dad4670e90.jpg" width="300">     <img src="https://user-images.githubusercontent.com/70539591/226284197-30e23b26-34b0-4e54-af37-db8817151122.jpg" width="300">     <img src="https://user-images.githubusercontent.com/70539591/226284200-12badc0a-5983-4f4d-8c9c-dcac0170c0a0.jpg" width="300">     <img src="https://user-images.githubusercontent.com/70539591/226284206-66b87f3a-d5cd-4ea0-a7a2-289fc73ed7e5.jpg" width="300"> 
 
 ---
-# "BoomSounds e-commerce"
+## "BoomSounds e-commerce"
 The user can either be a musician wanting to sell their productions and compositions, or someone who needs them for a movie, video game, commercial and so on.
-## Technologies: 
+### Technologies: 
 - Plain HTML/CSS with modules.
 - React with Redux.
 - Node.js, PostgreSQL with Sequelize.
@@ -124,7 +126,9 @@ The user can either be a musician wanting to sell their productions and composit
 ![msedge_xX0v5IlsNz](https://user-images.githubusercontent.com/70539591/114872124-61881a00-9dd0-11eb-8e0c-edd0e1b1fa9f.png)
 
 ---
-# Sales Times Reporter
+
+# .NET C# 
+## Sales Times Reporter
 This application receives data in .csv format from a Shopify store and calculates the times sales happen more frequently each day and stores them in time cells. Then by restricting the amount of sales per hour you can identify the most effective time spans to display ads. By this application I was able to 10x sales right away.
 This is a .net C# console application:
 
@@ -133,10 +137,10 @@ This is a .net C# console application:
 ![SalesTimesReporter2](https://github.com/danieltkach/danieltkach/assets/70539591/0ada4860-9761-4e92-a5ce-5050d62f9f99)
 
 ---
-# "Routine Planner"
+## "Routine Planner"
 I created this program to fulfill the need from instructors of the EasyFlexibility method to have quick lesson plans.
 
-## Technologies:
+### Technologies:
 - .NET with C# for Windows Desktop.
 - Text-to-speech modules.
 #### It checks the software expiration via an internet clock.
