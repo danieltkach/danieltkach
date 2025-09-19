@@ -11,7 +11,18 @@ https://github.com/danieltkach/ASP.NET-Angular-Dating
 # React + NodeJS
 
 ## SeaGuardian
-Maritime control application. I developed this application for the Chile's Navy, so that they can control maritime traffic. The user can set up alarms for different situations, such as when two vessels are too close together to detect illegal exchanges, or when they are in a forbidden zone and so on.
+SeaGuardian – Maritime Traffic Control Platform
+I designed and developed SeaGuardian, a maritime monitoring and control application built for the Chilean Navy to oversee and secure maritime traffic in real time. The system enables operators to:
+- Set dynamic geofences and alerts for restricted zones, high-risk areas, and economic exclusion zones.
+- Detect critical events like abrupt speed or course changes, vessel proximity (to flag potential illegal exchanges), or AIS signal loss.
+- Visualize live vessel movements on an interactive map powered by Leaflet, with real-time updates and status details.
+- Configure custom alarm rules with adjustable thresholds for better situational awareness and faster decision-making.
+
+Tech Stack:
+React · SASS · Leaflet · Node.js · MongoDB
+
+This project improved maritime domain awareness and gave operators actionable insights to prevent illegal activities, improve safety, and optimize patrol routes.
+
 ![image](https://user-images.githubusercontent.com/70539591/122461353-9c9df980-cf89-11eb-8ef7-1a41a9f8f929.png)
 
 ![image](https://user-images.githubusercontent.com/70539591/121104492-8ac59500-c7d8-11eb-80e6-07a490e0f5d6.png)
