@@ -6,9 +6,8 @@
 First and latest fullstack project with these technologies. Work in progress...
 - Dating App
 https://github.com/danieltkach/ASP.NET-Angular-Dating
-<img width="1437" height="773" alt="image" src="https://github.com/user-attachments/assets/86a2d10e-fbbe-4dd9-8a55-62b0eb32337c" />
+<img width="1437" height="771" alt="image" src="https://github.com/user-attachments/assets/3cb702b6-8604-4bd2-96d7-699d6ead34d3" />
 <img width="1437" height="893" alt="image" src="https://github.com/user-attachments/assets/9ca7dc0f-3a32-47fc-9d60-f8ad892fc82b" />
-
 
 ---
 # React + NodeJS
