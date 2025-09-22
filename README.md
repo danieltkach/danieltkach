@@ -34,8 +34,6 @@ This project improved maritime domain awareness and gave operators actionable in
 
 ![image](https://user-images.githubusercontent.com/70539591/119894766-6386e200-bf13-11eb-99e2-b9e951bf5aa9.png)
 
-### Technologies:
-- React, SASS, Leaflet, Node.js, MongoDB.
 
 ---
 ## Personalized Video (for bonsaifilms.com)
