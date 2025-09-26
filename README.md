@@ -3,7 +3,7 @@
 
 ---
 # Angular + .NET
-First and latest fullstack project with these technologies. Work in progress...
+Latest fullstack project with these technologies. Work in progress...
 - Dating App
 https://github.com/danieltkach/ASP.NET-Angular-Dating
 <img width="1437" height="771" alt="image" src="https://github.com/user-attachments/assets/3cb702b6-8604-4bd2-96d7-699d6ead34d3" />
