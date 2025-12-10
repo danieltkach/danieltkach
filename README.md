@@ -15,7 +15,11 @@
 - Procedural audio for space atmosphere
 - Multiple space stations to explore
 - Sound effects for all game events
-I started on october 2025 to work on this project, it's how I have fun over the weekends. Hopefully you can play it soon! For now you can download a simplified beta at https://danieltkach.github.io/RadioExplorer-Game/
+
+I started on october 2025 to work on this project, it's how I have fun over the weekends. 
+Hopefully you can play it soon! 
+
+### For now you can download a simplified beta at https://danieltkach.github.io/RadioExplorer-Game/
 
 ---
 # React + NodeJS
