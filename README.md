@@ -1,13 +1,21 @@
 ### Hi there 👋 Welcome to my github. Here are my most notable projects:
 - 📫 How to reach me: danieltkach@gmail.com
 
----
-# Angular + .NET
-Latest fullstack project with these technologies. Work in progress...
-- Dating App
-https://github.com/danieltkach/ASP.NET-Angular-Dating
-<img width="1437" height="771" alt="image" src="https://github.com/user-attachments/assets/3cb702b6-8604-4bd2-96d7-699d6ead34d3" />
-<img width="1437" height="893" alt="image" src="https://github.com/user-attachments/assets/9ca7dc0f-3a32-47fc-9d60-f8ad892fc82b" />
+## Stellar Sail 
+### C# space simulator in the terminal
+
+![wide cockpit](https://github.com/user-attachments/assets/786c51e8-2344-4164-85a6-5e57eae95d9d)
+
+<img width="1493" height="772" alt="Screenshot 2025-12-09 213147" src="https://github.com/user-attachments/assets/5825dc3b-c8fa-4da1-b35c-516ae4699bd5" />
+
+#### Features
+- Realistic launch sequence with system checks
+- Challenging manual landing alignment
+- Physics-based flight controls with drift
+- Procedural audio for space atmosphere
+- Multiple space stations to explore
+- Sound effects for all game events
+I started on october 2025 to work on this project, it's how I have fun over the weekends. Hopefully you can play it soon! For now you can download a simplified beta at https://danieltkach.github.io/RadioExplorer-Game/
 
 ---
 # React + NodeJS
@@ -202,3 +210,12 @@ Vocabulary retention system. I originally created it to learn Japanese, that's w
 ### Technologies: 
 - Borland Delphi (Pascal)
 - It uses a propietary file format to handle the vocabulary lists, saving the right and wrong answers for spaced repetition.
+
+---
+# Angular + .NET
+Latest fullstack project with these technologies. Work in progress...
+- Dating App
+https://github.com/danieltkach/ASP.NET-Angular-Dating
+<img width="1437" height="771" alt="image" src="https://github.com/user-attachments/assets/3cb702b6-8604-4bd2-96d7-699d6ead34d3" />
+<img width="1437" height="893" alt="image" src="https://github.com/user-attachments/assets/9ca7dc0f-3a32-47fc-9d60-f8ad892fc82b" />
+
